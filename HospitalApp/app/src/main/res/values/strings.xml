@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HospitalApp</string>
+
+    <!-- Configuración de Firebase y Google Sign-In -->
+    <string name="gcm_defaultSenderId" translatable="false">655239929821</string>
+    <string name="google_api_key" translatable="false">AIzaSyDimJNXFqgnn_nr2rFLrDekIXivV5p_kI8</string>
+    <string name="google_app_id" translatable="false">1:655239929821:android:097644190accd56b5d2034</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDimJNXFqgnn_nr2rFLrDekIXivV5p_kI8</string>
+    <string name="google_storage_bucket" translatable="false">hospitalapp-3c2e8.firebasestorage.app</string>
+    <string name="project_id" translatable="false">hospitalapp-3c2e8</string>
+
+    <!-- Tu Web Client ID para Google Sign-In -->
+    <string name="default_web_client_id">
+        655239929821-eq421sb1okpqo0bqlb2ub424l36igsf5.apps.googleusercontent.com
+    </string>
+</resources>
